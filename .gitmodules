@@ -1,3 +1,3 @@
 [submodule "gapi"]
 	path = Source/Tools/gapi
-	url = https://github.com/knuxbbs/gapi.git
+	url = https://github.com/glib-sharp/gapi.git
